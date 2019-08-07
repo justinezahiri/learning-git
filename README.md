@@ -3,6 +3,7 @@
 ## Liste des CVs
 
 - [Albert Sandra](./cv/ALBERT_SANDRA.md)
+- [Bruneau-Zahiri Justine](./cv/BRUNEAU-ZAHIRI_JUSTINE.md)
 - [Chretien Alexis](./cv/CHRETIEN_ALEXIS.md)
 - [Hacart Anthony](./cv/HACART_ANTHONY.md)
 - [Maillot Jennifer](./cv/MAILLOT_JENNIFER.md)
